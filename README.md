@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lisandro Verón
 - 👀 I’m interested in study to be web developer
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Git/GitHub
+- 🌱 I’m currently learning JavaScript and ReactJS
 - 💞️ I’m looking to collaborate with people with the same goals
 - 📫 How to reach me on Discord: Beautiful Quarantime#5317
 
